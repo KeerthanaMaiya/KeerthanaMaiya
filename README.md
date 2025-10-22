@@ -1,4 +1,4 @@
-# Hello im Keerthana Maiya
+# Hello i'm Keerthana Maiya
 github.com/KeerthanaMaiya
 
 ## About Me
