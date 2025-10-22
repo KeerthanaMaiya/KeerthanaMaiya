@@ -2,7 +2,7 @@
 github.com/KeerthanaMaiya
 
 ## About Me
-Im a fresher graduated in 2024 b.e information Science and Engineering looking for developer roles
+Im a fresher graduated in 2024 B.E information Science and Engineering looking for developer roles
 
 ### Technical Skills
 **Languages:** Python, Java, C++, SQL, JavaScript
@@ -49,5 +49,5 @@ X – General Education, V K R Acharya High School, Kundapura (2017-2018)
 
 ### Contact
 LinkedIn: linkedin.com/in/keerthana-maiya
-Email: youremail@domain.com
+Email: keerthanamaiya7@gmail.com
 GitHub: github.com/KeerthanaMaiya
